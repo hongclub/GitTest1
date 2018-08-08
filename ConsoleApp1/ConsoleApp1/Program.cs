@@ -21,6 +21,7 @@ namespace ConsoleApp1
             // update in github develop branch for rebase
 
             // Test 1
+            // Test 2
         }
     }
 }
