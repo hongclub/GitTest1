@@ -1,0 +1,137 @@
+[33mcommit 3f801ff94fc4a962deecc5cd43662c163f18c3d8[m[33m ([m[1;36mHEAD -> [m[1;32mdevelop[m[33m, [m[1;31morigin/develop[m[33m)[m
+Merge: b7bb15f 34d15e7
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Tue Aug 7 22:27:26 2018 -0600
+
+    Merge pull request #4 from hongclub/feature/S19001
+    
+    Feature/s19001
+
+[33mcommit 34d15e7cd339afe28bcb1194ba4e232b6ce427d1[m[33m ([m[1;31morigin/feature/S19001[m[33m, [m[1;32mfeature/S19001[m[33m)[m
+Merge: 984cff8 b7bb15f
+Author: Tommy Lai <whlai@avidxchange.com>
+Date:   Tue Aug 7 22:24:32 2018 -0600
+
+    resolved merge
+
+[33mcommit b7bb15f26ab1c15738019e08bf4f40a31188e78f[m[33m ([m[1;32mmaster[m[33m, [m[1;32mfeature/coolstuff[m[33m)[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Tue Aug 7 21:50:49 2018 -0600
+
+    Update Program.cs
+
+[33mcommit 984cff82a4f9edf7e37d87a59d4144067e582d4c[m
+Author: Tommy Lai <whlai@avidxchange.com>
+Date:   Tue Aug 7 21:40:50 2018 -0600
+
+    modify program on my workmachine for feature/S19001
+
+[33mcommit 0ab81485d81abbf3bc85302ef894029ed8a751b3[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Tue Aug 7 21:38:00 2018 -0600
+
+    try update in github for S19001
+
+[33mcommit ec9cb534d2814aa380a3f836f303769be782b104[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Tue Aug 7 21:23:17 2018 -0600
+
+    Update Program.cs
+
+[33mcommit 14b85a74498bf881f9e41c7685a2bb9197d64f12[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: af2f054 a09d1ad
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:58:59 2018 -0600
+
+    Merge pull request #2 from hongclub/Feature2
+    
+    add feature3
+
+[33mcommit a09d1ad907f47934998d4492639e884f2f46385c[m[33m ([m[1;31morigin/Feature2[m[33m)[m
+Merge: 67cd582 af2f054
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:53:47 2018 -0600
+
+    resolved conflict
+
+[33mcommit af2f0549dfa16a363e33778f9aae00bcb621e441[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:45:48 2018 -0600
+
+    Update Program.cs
+
+[33mcommit 67cd582aefcb089c925106c3975158b9e06be0b6[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:43:40 2018 -0600
+
+    add feature2
+
+[33mcommit 0ca069fd21f2faaca530716a31fefcd8bc608104[m
+Merge: 03212d7 8a90137
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:41:34 2018 -0600
+
+    resolved conflict
+
+[33mcommit 03212d73b56b888681d13fbbb87d668198757807[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:34:31 2018 -0600
+
+    change method
+
+[33mcommit 8a90137dd7f7a599c9a962d568f6c967264e7d1a[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:33:42 2018 -0600
+
+    Update Feature1.cs
+
+[33mcommit 4a0552e023f21b14f0ed5b4c6c1be5015ebd3d1a[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:32:45 2018 -0600
+
+    Add method add
+
+[33mcommit 245619e3dafd258413041d0b8b8fae19d89f647c[m
+Merge: cf67c28 44d9dae
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:26:18 2018 -0600
+
+    Merge pull request #1 from hongclub/Feature1
+    
+    add feature1 and cool
+
+[33mcommit 44d9daeb346c375e39e88673b94e5642e6d9a660[m[33m ([m[1;31morigin/Feature1[m[33m)[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:21:16 2018 -0600
+
+    add feature1
+
+[33mcommit cf67c283eb4e548d0d0373f4a97538e05d73e3ea[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:15:33 2018 -0600
+
+    added changes
+
+[33mcommit 7b4c5e2afc47fe74ab5ed93c86004813ca71e3a5[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:14:43 2018 -0600
+
+    Update Program.cs
+
+[33mcommit 67d3ce404485d3ea49ffb14ac56ccb159d40e4c3[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:12:21 2018 -0600
+
+    Update Program.cs
+
+[33mcommit 5fcd7975d1e46fc172c05b1a4a3439350d94651b[m
+Author: Tommy Lai <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:09:02 2018 -0600
+
+    initial solution
+
+[33mcommit a537e93036f1c9b4c3967209fd45f8ab9cf9dafb[m
+Author: hongclub <lai_tommy@hotmail.com>
+Date:   Fri Aug 3 16:00:02 2018 -0600
+
+    Initial commit
