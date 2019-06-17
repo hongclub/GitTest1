@@ -15,6 +15,8 @@ namespace ConsoleApp1
             // call feature1
             // add code to feature2
             // add code for feature 3
+
+            // this is the first commit for feature 1
         }
     }
 }
